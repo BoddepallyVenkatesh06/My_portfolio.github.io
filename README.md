@@ -1,4 +1,4 @@
-# [My_Portfolio_Website](http://127.0.0.1:5500/index.html)
+# [My_Portfolio_Website](https://boddepallyvenkatesh06.github.io/My_portfolio.github.io/)
 
 This website serves as an online portfolio to showcase my web presence, resume, story, &amp; featured projects with a Particle.js aligned theme. 
 
